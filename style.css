@@ -27,21 +27,6 @@ main {
   margin-right: 0;
 }
 
-.box-img1 {
-  height: 150px;
-  background-image: url(img/flow01.png);
-}
-
-.box-img2 {
-  height: 150px;
-  background-image: url(img/flow02.png);
-}
-
-.box-img3 {
-  height: 150px;
-  background-image: url(img/flow03.png);
-}
-
 .box-text {
   margin: 15px 0 5px 0;
   width: 280px;
